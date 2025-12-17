@@ -50,8 +50,8 @@ spec:
     
     environment {
         // REPLACE THESE WITH YOUR ACTUAL PROJECT SHARE HUB KEYS
-        VITE_SUPABASE_URL = 'https://your-project-url.supabase.co'
-        VITE_SUPABASE_ANON_KEY = 'your-actual-anon-key-here'
+        VITE_SUPABASE_PUBLISHABLE_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZ3dGh6dXZwdXNmYXdtaGhsend3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQ1NzYyMjgsImV4cCI6MjA4MDE1MjIyOH0.yzU2fdrX3L9NrTo1WPAXSa-j7ZtuAAA1mPJmYJnHUyQ"
+        VITE_SUPABASE_URL="https://vwthzuvpusfawmhhlzww.supabase.co"
     }
 
     stages {
